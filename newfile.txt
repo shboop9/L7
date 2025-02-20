@@ -1,0 +1,2 @@
+this is the first file created in the shashigit folder
+it will go into the first commit
