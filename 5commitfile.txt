@@ -8,3 +8,4 @@ commit 2 -> line 1
 commit 3 -> line 2
 commit 4 -> line 3
 commit 5 -> line 4
+commit 6 -> line 5
